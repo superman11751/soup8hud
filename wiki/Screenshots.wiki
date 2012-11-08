@@ -1,10 +1,10 @@
 #summary Screenshots of Hud in ACTION!
 
-*_Main Menu
+*Main Menu
 
 <a target='_blank' title='ImageShack - Image And Video Hosting' href='http://imageshack.us/photo/my-images/27/12065992.jpg/'><img src='http://img27.imageshack.us/img27/2518/12065992.jpg' border='0'/></a><br>
 
-Connecting
+*Connecting
 
 <a href="http://imgur.com/G3u2u"><img src="http://i.imgur.com/G3u2u.jpg" title="Hosted by imgur.com" alt="" /></a>
 <a href="http://imgur.com/4T1ZF"><img src="http://i.imgur.com/4T1ZF.jpg" alt="" title="Hosted by imgur.com" /></a>
@@ -14,20 +14,20 @@ Team/Class Selection
 <a href="http://imgur.com/fhMLP"><img src="http://i.imgur.com/fhMLP.jpg" title="Hosted by imgur.com" alt="" /></a>
 <a href="http://imgur.com/7XxQe"><img src="http://i.imgur.com/7XxQe.jpg" title="Hosted by imgur.com" alt="" /></a>
 
-Scout
+*Scout
 
 <a href="http://imgur.com/cfjRl"><img src="http://i.imgur.com/cfjRl.jpg" title="Hosted by imgur.com" alt="" /></a>
 
-Meters
+*Meters
 
 <a href="http://imgur.com/SygsO"><img src="http://i.imgur.com/SygsO.jpg" title="Hosted by imgur.com" alt="" /></a>
 <a href="http://imgur.com/4rb3Q"><img src="http://i.imgur.com/4rb3Q.jpg" title="Hosted by imgur.com" alt="" /></a><a href="http://imgur.com/rJFKs"><img src="http://i.imgur.com/rJFKs.jpg" title="Hosted by imgur.com" alt="" /></a>
 
-Soldier
+*Soldier
 
 <a href="http://imgur.com/ir8JN"><img src="http://i.imgur.com/ir8JN.jpg" title="Hosted by imgur.com" alt="" /></a>
 
-Meters
+*Meters
 
 <a href="http://imgur.com/zNoZn"><img src="http://i.imgur.com/zNoZn.jpg" title="Hosted by imgur.com" alt="" /></a>
 <a href="http://imgur.com/OlSbc"><img src="http://i.imgur.com/OlSbc.jpg" title="Hosted by imgur.com" alt="" /></a>
