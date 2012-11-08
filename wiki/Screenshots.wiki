@@ -1,15 +1,15 @@
 #summary Screenshots of Hud in ACTION!
 
-*Main Menu
+= Main Menu =
 
 <a target='_blank' title='ImageShack - Image And Video Hosting' href='http://imageshack.us/photo/my-images/27/12065992.jpg/'><img src='http://img27.imageshack.us/img27/2518/12065992.jpg' border='0'/></a><br>
 
-*Connecting
+= Connecting =
 
 <a href="http://imgur.com/G3u2u"><img src="http://i.imgur.com/G3u2u.jpg" title="Hosted by imgur.com" alt="" /></a>
 <a href="http://imgur.com/4T1ZF"><img src="http://i.imgur.com/4T1ZF.jpg" alt="" title="Hosted by imgur.com" /></a>
 
-*Team/Class Selection
+= Team/Class Selection =
 
 <a href="http://imgur.com/fhMLP"><img src="http://i.imgur.com/fhMLP.jpg" title="Hosted by imgur.com" alt="" /></a>
 <a href="http://imgur.com/7XxQe"><img src="http://i.imgur.com/7XxQe.jpg" title="Hosted by imgur.com" alt="" /></a>
