@@ -55,7 +55,7 @@
 
 = Demo =
 
-<a href="http://imgur.com/KwsPx"><img src="http://i.imgur.com/KwsPx.jpg" title="Hosted by imgur.com" alt="" /></a>
+<a href="http://imgur.com/9OuYN"><img src="http://i.imgur.com/9OuYN.jpg" title="Hosted by imgur.com" alt="" /></a>
 <a href="http://imgur.com/M4uK3"><img src="http://i.imgur.com/M4uK3.jpg" title="Hosted by imgur.com" alt="" /></a>
 
 
